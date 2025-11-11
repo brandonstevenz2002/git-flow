@@ -1,0 +1,3 @@
+[submodule "mi_app_web"]
+	path = mi_app_web
+	url = https://github.com/brandonstevenz2002/git-flow.git
